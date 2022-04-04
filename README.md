@@ -12,3 +12,5 @@ I chose to go with coding as my theme as i found this snippet,
     }
 ```
 by Gazi Jarin really clever and really funny.
+## Conclusion
+Webpage done! I didnt try to go crazy with my ideas or creativity, simpling following the template and color schemes. Also this webpage is not optimized for computer/laptops.
